@@ -1,0 +1,25 @@
+# ninja log v6
+11659	11733	7417654287035387	D:/PongPong/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	4ab7d375e0f1c0b2
+3	89	7417645241845933	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	68e33d887eddf58f
+3	89	7417645241845933	D:/PongPong/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	68e33d887eddf58f
+5	11588	7417654285579099	D:/PongPong/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	dfdc0deef2b263ec
+5	11588	7417654285579099	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	dfdc0deef2b263ec
+90	9376	7417645334725248	D:/PongPong/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/4.5.0.tar.gz	dfdc0deef2b263ec
+12025	12129	7417654290989625	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	14895120fffd8b99
+11733	11806	7417654287771532	D:/PongPong/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	4ab7e2722ccabb72
+11588	11659	7417654286309961	D:/PongPong/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	f5a7a58235582431
+90	9376	7417645334725248	raylib-populate-prefix/src/4.5.0.tar.gz	dfdc0deef2b263ec
+11951	12025	7417654289957454	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	b6988c25fa3be1d3
+11588	11659	7417654286309961	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	f5a7a58235582431
+11659	11733	7417654287035387	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	4ab7d375e0f1c0b2
+11733	11806	7417654287771532	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	4ab7e2722ccabb72
+5	11588	7417654285579099	D:/PongPong/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/3.7.0.tar.gz	dfdc0deef2b263ec
+11806	11879	7417654288509929	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	26d7ea7a8d170d5c
+11806	11879	7417654288509929	D:/PongPong/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	26d7ea7a8d170d5c
+11879	11951	7417654289223138	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	1a1fbc4b3accd91f
+11879	11951	7417654289223138	D:/PongPong/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	1a1fbc4b3accd91f
+11951	12025	7417654289957454	D:/PongPong/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	b6988c25fa3be1d3
+12025	12129	7417654290989625	CMakeFiles/raylib-populate-complete	14895120fffd8b99
+12025	12129	7417654290989625	D:/PongPong/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete	14895120fffd8b99
+12025	12129	7417654290989625	D:/PongPong/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	14895120fffd8b99
+5	11588	7417654285579099	raylib-populate-prefix/src/3.7.0.tar.gz	dfdc0deef2b263ec
